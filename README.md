@@ -1,14 +1,16 @@
-### Hey, I'm Dylan 👋🏽  
+### Hey, I'm Dylan 👋  
 
-I'm a 21-year-old developer based in Germany, and I'm passionate about crafting digital experiences. 
-
-- Check out my [website](https://www.miraya.tech/) to learn more about me.
-- Explore my [blog](https://mirayatech.hashnode.dev/?source=top_nav_blog_home) where I share insights and learnings.
-- Check out [VSCode Configuration](https://github.com/mirayatech/vscode-settings) for development optimization.
-- In my [Newsletter](https://mirayatech.substack.com/), I share my learnings and tips to become a better developer. 
+I build quality websites for small businesses, and am learning to become a full stack dev.
  
 ## 📦 Toolbox
 
+**Frontend Development:** `HTML` `CSS` `JavaScript`
+ 
+**Static Site Generation:** `11ty` `Nunjucks`
+
+**Backend Development:** `Node.js` `Python`
+
+<!-- 
 **Frontend Development:** `React` `Next.js` `TypeScript` `Tailwind` `Material-UI` `Framer-Motion`
  
 **Version Control:** `Git` `GitLab` `Bitbucket`
@@ -18,26 +20,13 @@ I'm a 21-year-old developer based in Germany, and I'm passionate about crafting 
 **Testing:** `Cypress` `Playwright` `Vitest` `Postman` `Insomnia`
 
 **Others:** `Storybook` `Zustand` `A11y` `Scrum` `Confluence` `Jira`
+
+-->
+
  
 ## ✨ Fun Facts 
 
-- Demon Slayer is my favorite anime.
-- As a kid, I wanted to be an astronaut.
-- I love using Mac after switching from Linux.
+- 🌱 Currently learning Python and JavaScript
+- ⚡ Fun fact: Seinfeld is my favorite show.
+- 📫 How to reach me: Iamdylanhoag@gmail.com
 
-## 📫 Contact
-
- For a quick response, DM me on [LinkedIn](https://www.linkedin.com/in/mirayaabrodi/). 
-
-**abundantRuby/abundantRuby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
