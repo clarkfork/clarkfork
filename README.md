@@ -1,6 +1,6 @@
 ### Hey, I'm Dylan 👋  
 
-I build quality websites for small businesses, and am learning to become a full stack dev.
+I build quality websites for small businesses at $0 down, $50/mo
  
 ## 📦 Toolbox
 
@@ -24,9 +24,9 @@ I build quality websites for small businesses, and am learning to become a full 
 -->
 
  
-## ✨ Fun Facts 
+## ✨ About Me
 
-- 🌱 Currently learning Python and JavaScript
-- ⚡ Fun fact: Seinfeld is my favorite show.
+- 📍 Based in Boise, ID
+- ⚡ Always making awesome websites
 - 📫 How to reach me: Iamdylanhoag@gmail.com
 
